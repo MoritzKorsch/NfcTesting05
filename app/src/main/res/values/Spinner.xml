@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner1_mode_array">
+        <item>Text</item>
+        <item>Contact</item>
+        <item>Picture</item>
+    </string-array>
+
+</resources>
